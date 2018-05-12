@@ -4,9 +4,13 @@
 ##This Analysis will have
 
 ###Investigation of G. scandens beak depth
+
 ###● EDA of beak depths in 1975 and 2012
+
 ###● Parameter estimates of mean beak depth
+
 ###● Hypothesis test: did the beaks get deeper?
 
 ###Heredity
+
 ###● The tendency for parental traits to be inherited by offspring
