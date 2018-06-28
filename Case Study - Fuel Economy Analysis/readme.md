@@ -20,6 +20,7 @@
 ## File Descriptions
 - ./data/ contains the various datasets.
 - ./.ipynb is a Jupyter notebook containing the work I have done.
+- ./GreenVehicleGuideDocumentation.pdf containing the documentation of the data.
 
 ## References & Citations
 - Data provided by [EPA](https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy)
